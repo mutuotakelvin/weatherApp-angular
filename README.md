@@ -1,14 +1,36 @@
 # WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+This project was generated with 
 
-## Development server
+## Table of contents
+* [General info](#general-info)
+* [ Technologies](#technologies)
+* [Features](#features)
+* [Setup](#setup)
+* [Acknowledgements](#acknowledgements)
+* [Further help](#further-help)
 
+
+
+## General info
+A PWA that displays the weather of a city using the OpenWeather API.
+
+## Technologies
+  * Progressive Web App (PWA)
+  * Service worker
+  * [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+
+
+## Features
+* Access locally saved data and intaract with peripheral hardware that is connected to the device of the user.
+ * Has same perfomance and experience in any network connection including those with low connectivity and coverage.
+ * Can be installed on the device of the user and lounched directly from the home screen and interact with other installed native applications.
+
+## Setup
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Acknoledgements
+* This project was inspired by Aristeids Bampakos
 
 ## Build
 
